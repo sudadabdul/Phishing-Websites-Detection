@@ -1,3 +1,4 @@
+aiohttp
 jupyter
 matplotlib
 numpy
